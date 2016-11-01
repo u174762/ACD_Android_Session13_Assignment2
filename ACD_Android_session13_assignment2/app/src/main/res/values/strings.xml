@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionBar Tabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="video_frag">This is a Video Fragment!</string>
+    <string name="audio_frag">This is an Audio Fragment!</string>
+</resources>
